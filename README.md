@@ -2,6 +2,20 @@
 
 ## Practicing of SQL
 
+There are 3 Tables that I had to work with:
+
+1) Bookings Table (First 5 rows)
+
+![bookings_table.png](Images/bookings_table.png)
+
+2) Facilities Table (First 5 rows)
+
+![facilities_table.png](Images/facilities_table.png)
+
+3) Members Table (First 5 rows)
+
+![members_table.png](Images/members_table.png)
+
 Questions I had to answer:
 
 1. How can you retrieve all the information from the cd.facilities table?
