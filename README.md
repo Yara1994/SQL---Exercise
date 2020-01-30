@@ -16,7 +16,7 @@ There are 3 Tables that I had to work with:
 
 ![members_table.PNG](Images/members_table.PNG)
 
-Questions I had to answer:
+# Questions I had to answer:
 
 1. How can you retrieve all the information from the cd.facilities table?
 2. You want to print out a list of all of the facilities and their cost to members. How would you retrieve a list of only facility names and costs?
