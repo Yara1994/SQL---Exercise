@@ -32,3 +32,6 @@ There are 3 Tables that I had to work with:
 12.Produce a list of facilities with more than 1000 slots booked. Produce an output table consisting of facility id and total slots, sorted by facility id.
 13. How can you produce a list of the start times for bookings for tennis courts, for the date '2012-09-21'? Return a list of start time and facility name pairings, ordered by the time.
 14. How can you produce a list of the start times for bookings by members named 'David Farrell'?
+
+
+CHECK SOLUTIONS in exercises.sql file
