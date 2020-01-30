@@ -34,4 +34,4 @@ There are 3 Tables that I had to work with:
 14. How can you produce a list of the start times for bookings by members named 'David Farrell'?
 
 
-CHECK SOLUTIONS in exercises.sql file
+                                               CHECK SOLUTIONS in exercises.sql file
