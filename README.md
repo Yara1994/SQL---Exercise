@@ -6,15 +6,15 @@ There are 3 Tables that I had to work with:
 
 1) Bookings Table (First 5 rows)
 
-![bookings_table.png](Images/bookings_table.png)
+![bookings_table.PNG](Images/bookings_table.PNG)
 
 2) Facilities Table (First 5 rows)
 
-![facilities_table.png](Images/facilities_table.png)
+![facilities_table.PNG](Images/facilities_table.PNG)
 
 3) Members Table (First 5 rows)
 
-![members_table.png](Images/members_table.png)
+![members_table.PNG](Images/members_table.PNG)
 
 Questions I had to answer:
 
